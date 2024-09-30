@@ -1,0 +1,13 @@
+{
+  "name": "shamir-secret-sharing",
+  "version": "1.0.0",
+  "description": "A simplified implementation of Shamir's Secret Sharing algorithm.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
